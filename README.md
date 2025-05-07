@@ -24,4 +24,4 @@ Make sure you have Python installed on your system. No additional modules are re
 
 ## Author
 
-Guerro
+Amori Adefolahan.
